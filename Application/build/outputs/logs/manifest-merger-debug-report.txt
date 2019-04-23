@@ -1,0 +1,317 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+MERGED from [:Shared] C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\af1fa75c8a892d941f0ba3f359ef74e5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\b247214a1cd034cd0bf7cf0d5adc8449\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\2fc0f29baac7fbbcab707476cc3f119e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a3cd2872ad6eca37cfee98015f0ba3a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5469a1466b9b6ad8d78e487793e9f174\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\8e670a675134b1d3d366c88966d16a90\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\89411ef0fde1ff51efc05eab81588941\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\917cd60ee60160c270756ee53abadccd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\3f73cd40598168e8fd1f136d0474d661\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\aeb314237eb2893c696f55790e81f652\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\94624e5b6f42c20316b56da7e8e62325\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\1a8f49c45886642f99b71335c2286101\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\38ce02ff603802318e7624011bcdee00\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\54a0c9cbad78e1f6ee5d9208282dbfa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\8c065118a427b501333006344d348eef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\986ed197f72a7244bf9a123a6262cb07\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\6aa4d209ce3d143532d0db70cc02b87d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\84263ccd76f031e3d4d97b0dd64b1b35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\80c3af87d10bf089fc87149dccc056b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\2dd2003ebe96892859986e6613c3f2c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\8c0ca4b894293f161151ccb162aa5e02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\87742d5bd76fc7127b14cf74ffb3bba3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\f2718afa54a73eb61e663f6586212ebd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\dab30aa2f7836dec22fe47bcafe69fdb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\0da50500306ac0b2f5f966bf15fa8976\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\336204ea9da861dd740d7a2c7bfff8e2\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a3f7180538de4becd793d153073f6d59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ec28547112b87174ff2c4c1747faac82\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d07dec57bfdc33fa347d66f9615be83f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\ffbe6fac77e1a7c48644617faf72bd98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0714a59d077a42eb3ef9e79ac1147e03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\88565d4a2b6653b6951ebc9e300ccb17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f762328391109a5ab21b77833c3555e6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\696a3cb1ec74c68c6c30fc9c9f0b1bf9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\62cd3647f27220ca383d992a3e5b0ddd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\de24a8c0715b69d18ef17e9eedd20359\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\12216b13ec03757f9651af12ce26cd8d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+	package
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:20:5-56
+	android:versionName
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:25:5-100
+	tools:node
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:25:78-97
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:26:5-101
+	tools:node
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:26:79-98
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:28:5-78:19
+MERGED from [:Shared] C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-47
+MERGED from [:Shared] C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-47
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\af1fa75c8a892d941f0ba3f359ef74e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\af1fa75c8a892d941f0ba3f359ef74e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5469a1466b9b6ad8d78e487793e9f174\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5469a1466b9b6ad8d78e487793e9f174\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\8e670a675134b1d3d366c88966d16a90\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\8e670a675134b1d3d366c88966d16a90\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\89411ef0fde1ff51efc05eab81588941\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\89411ef0fde1ff51efc05eab81588941\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\917cd60ee60160c270756ee53abadccd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\917cd60ee60160c270756ee53abadccd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\0da50500306ac0b2f5f966bf15fa8976\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\0da50500306ac0b2f5f966bf15fa8976\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\336204ea9da861dd740d7a2c7bfff8e2\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\336204ea9da861dd740d7a2c7bfff8e2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\0da50500306ac0b2f5f966bf15fa8976\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:31:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:33:9-41
+	android:icon
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:30:9-43
+	android:allowBackup
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:32:9-43
+activity#com.example.android.xyztouristattractions.ui.AttractionListActivity
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:36:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.android.xyztouristattractions.ui.DetailActivity
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:46:9-50:71
+	android:parentActivityName
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:50:13-68
+	android:label
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:48:13-45
+	android:theme
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:47:13-46
+receiver#com.example.android.xyztouristattractions.service.UtilityReceiver
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:52:9-61
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:52:19-58
+service#com.example.android.xyztouristattractions.service.UtilityService
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:54:9-59
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:54:18-56
+service#com.example.android.xyztouristattractions.service.ListenerService
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:56:9-69:19
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:56:18-57
+intent-filter#action:name:com.google.android.gms.wearable.MESSAGE_RECEIVED+data:host:*+data:host:*+data:pathPrefix:/clear+data:pathPrefix:/start+data:scheme:wear+data:scheme:wear
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:57:13-68:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:59:17-91
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:59:25-88
+data
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:17-91
+	android:host
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:45-61
+	android:scheme
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:23-44
+	android:pathPrefix
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:62-89
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:71:9-72:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:71:20-65
+meta-data#com.example.android.xyztouristattractions.config.GlideConfiguration
+ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:74:9-76:42
+	android:value
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:76:13-40
+	android:name
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml:75:13-95
+uses-sdk
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+MERGED from [:Shared] C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:41
+MERGED from [:Shared] C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Shared\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\da513a6d6ffdda8ca585424e200ee24b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\af1fa75c8a892d941f0ba3f359ef74e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\af1fa75c8a892d941f0ba3f359ef74e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\b247214a1cd034cd0bf7cf0d5adc8449\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\b247214a1cd034cd0bf7cf0d5adc8449\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\2fc0f29baac7fbbcab707476cc3f119e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\2fc0f29baac7fbbcab707476cc3f119e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a3cd2872ad6eca37cfee98015f0ba3a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a3cd2872ad6eca37cfee98015f0ba3a0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5469a1466b9b6ad8d78e487793e9f174\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\5469a1466b9b6ad8d78e487793e9f174\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\8e670a675134b1d3d366c88966d16a90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\8e670a675134b1d3d366c88966d16a90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\89411ef0fde1ff51efc05eab81588941\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\89411ef0fde1ff51efc05eab81588941\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\917cd60ee60160c270756ee53abadccd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\917cd60ee60160c270756ee53abadccd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\2d4b33383a4591e8d61777ff16f7380c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\3f73cd40598168e8fd1f136d0474d661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\3f73cd40598168e8fd1f136d0474d661\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\aeb314237eb2893c696f55790e81f652\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\aeb314237eb2893c696f55790e81f652\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\94624e5b6f42c20316b56da7e8e62325\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\94624e5b6f42c20316b56da7e8e62325\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\1a8f49c45886642f99b71335c2286101\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\1a8f49c45886642f99b71335c2286101\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\38ce02ff603802318e7624011bcdee00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\38ce02ff603802318e7624011bcdee00\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\54a0c9cbad78e1f6ee5d9208282dbfa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\54a0c9cbad78e1f6ee5d9208282dbfa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\8c065118a427b501333006344d348eef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\8c065118a427b501333006344d348eef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\986ed197f72a7244bf9a123a6262cb07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\986ed197f72a7244bf9a123a6262cb07\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\6aa4d209ce3d143532d0db70cc02b87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\6aa4d209ce3d143532d0db70cc02b87d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\84263ccd76f031e3d4d97b0dd64b1b35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\84263ccd76f031e3d4d97b0dd64b1b35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\80c3af87d10bf089fc87149dccc056b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\80c3af87d10bf089fc87149dccc056b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\2dd2003ebe96892859986e6613c3f2c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\2dd2003ebe96892859986e6613c3f2c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\8c0ca4b894293f161151ccb162aa5e02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\8c0ca4b894293f161151ccb162aa5e02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\87742d5bd76fc7127b14cf74ffb3bba3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\87742d5bd76fc7127b14cf74ffb3bba3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\f2718afa54a73eb61e663f6586212ebd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\f2718afa54a73eb61e663f6586212ebd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\dab30aa2f7836dec22fe47bcafe69fdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\dab30aa2f7836dec22fe47bcafe69fdb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\0da50500306ac0b2f5f966bf15fa8976\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\0da50500306ac0b2f5f966bf15fa8976\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\336204ea9da861dd740d7a2c7bfff8e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\336204ea9da861dd740d7a2c7bfff8e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a3f7180538de4becd793d153073f6d59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\a3f7180538de4becd793d153073f6d59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ec28547112b87174ff2c4c1747faac82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\ec28547112b87174ff2c4c1747faac82\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d07dec57bfdc33fa347d66f9615be83f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\d07dec57bfdc33fa347d66f9615be83f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\ffbe6fac77e1a7c48644617faf72bd98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\ffbe6fac77e1a7c48644617faf72bd98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0714a59d077a42eb3ef9e79ac1147e03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\0714a59d077a42eb3ef9e79ac1147e03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\88565d4a2b6653b6951ebc9e300ccb17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\88565d4a2b6653b6951ebc9e300ccb17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f762328391109a5ab21b77833c3555e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\f762328391109a5ab21b77833c3555e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\696a3cb1ec74c68c6c30fc9c9f0b1bf9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\696a3cb1ec74c68c6c30fc9c9f0b1bf9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\62cd3647f27220ca383d992a3e5b0ddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\62cd3647f27220ca383d992a3e5b0ddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\de24a8c0715b69d18ef17e9eedd20359\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\de24a8c0715b69d18ef17e9eedd20359\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\12216b13ec03757f9651af12ce26cd8d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\12216b13ec03757f9651af12ce26cd8d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dnanda\AndroidStudioProjects\XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.1.0.aar\86521a82713c3ae32f0f3ca76735ba38\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\dnanda\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\eb4caa30fafbbf64bc6b64b03a0cf935\AndroidManifest.xml:24:13-79
